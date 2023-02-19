@@ -1,4 +1,4 @@
-# dicoding_flutter_app
+# slidable_detail_page_flutter
 
 A new Flutter project.
 
